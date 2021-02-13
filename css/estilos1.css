@@ -1,0 +1,76 @@
+/* Secciones */
+body{
+    background-color: #F1F4FF;
+}
+.main{
+    background-color: #564f56;
+}
+header{
+    background-color: #3E69FC;
+    height: 10vh;
+    align-items: center;
+    display: flex;
+}
+footer{
+    background-color: black;
+    color: white;
+    bottom: 0;
+    padding-left: 5vh;
+}
+footer img{
+	margin-left: 30px;
+	margin-top: 12px;
+}
+/* / Secciones */
+/* Estilos de letra */
+h1{
+    color: white;
+}
+section p{
+    font-size: 20px;
+}
+/* / Estilos de letra */
+/* Cartas */
+#carta{
+    display: flex; 
+    flex-direction: column; 
+}
+/* /Cartas */
+/* Imagenes */
+header img{
+    display: flex; 
+    flex-direction: column; 
+}
+#imgmain{
+    position: relative;
+    display: inline-block;
+}
+#textomain{
+    position: absolute;
+    font-family: "Arial Rounded MT Bold";
+    left: 35%;
+    top: 12%;
+    font-size: 50px;
+    color:white;
+}
+#textomain1{
+    position: absolute;
+    font-family: "Arial Rounded MT Bold";
+    left: 35%;
+    top: 28%;
+    font-size: 45px;
+    color:#8AA3FD;
+}
+/* /Imagenes */
+
+/* Estilos opcionales */
+.floatleft{float: left;}
+.borde{border-style: solid;}
+.borde_rojo{border-style: solid; border-color: red;}
+.row{
+    /* border-style: solid; */
+}
+.row div{
+    /* border-style: solid;
+    border-color:red; */
+}
