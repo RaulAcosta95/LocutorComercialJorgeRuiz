@@ -35,6 +35,10 @@ section p{
     display: flex; 
     flex-direction: column; 
 }
+#audio{
+    
+    width: 35vh;
+}
 /* /Cartas */
 /* Imagenes */
 header img{
