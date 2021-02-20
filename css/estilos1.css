@@ -9,9 +9,7 @@ section section{
     background-size: 100% 100%; 
 }
 
-.main{
-    /* Nada */
-}
+
 header{
     background-color: #3E69FC;
     height: 10vh;
@@ -84,10 +82,3 @@ header img{
 .floatleft{float: left;}
 .borde{border-style: solid;}
 .borde_rojo{border-style: solid; border-color: red;}
-.row{
-    /* border-style: solid; */
-}
-.row div{
-    /* border-style: solid;
-    border-color:red; */
-}
