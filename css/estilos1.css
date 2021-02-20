@@ -60,6 +60,7 @@ header img{
 #imgmain{
     position: relative;
     display: inline-block;
+    height: 60vh;
 }
 #textomain{
     position: absolute;
